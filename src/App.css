@@ -1,0 +1,7 @@
+:root ion-content {
+  --ion-background-color: var(--app-background)
+}
+
+:root ion-card {
+  --ion-background-color: white;
+}

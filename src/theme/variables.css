@@ -12,11 +12,13 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-primary-tint: #4c8dff;
   --ion-color-primary-light: #F9FAFD;
 
+  --app-background: #F9FAFD;
+
 
   /** secondary **/
   --ion-color-secondary: #F9FAFD;
   --ion-color-secondary-rgb: 61, 194, 255;
-  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast: #000;
   --ion-color-secondary-contrast-rgb: 255, 255, 255;
   --ion-color-secondary-shade: #36abe0;
   --ion-color-secondary-tint: #50c8ff;
