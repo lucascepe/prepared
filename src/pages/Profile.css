@@ -1,0 +1,21 @@
+.avatar__profileimg{
+margin-top: 20px;
+width: 140px;
+height: 140px;
+margin-left: 28%;
+}
+
+.skills__overview{
+    color: black;
+    margin-left: 15px;
+}
+
+.profile__subtitle{
+    color: black;
+    margin-left: 15px;
+}
+
+.progressbar__text{
+    color: black;
+    margin-left: 15px;
+}
